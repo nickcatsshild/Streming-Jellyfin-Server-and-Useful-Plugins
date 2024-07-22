@@ -1,4 +1,4 @@
-## Useful Jellyfin Plugins and Repositories - English Translation
+## Useful Jellyfin Plugins and Repositories
 
 **Introduction:**
 
