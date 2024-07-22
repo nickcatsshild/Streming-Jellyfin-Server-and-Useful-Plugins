@@ -2,7 +2,7 @@
 
 **Introduction:**
 
-Jellyfin offers a comprehensive and customizable media streaming experience. To further enhance this experience, various third-party plugins and repositories can be installed, expanding the available features and functionalities.
+Jellyfin offers a complete and customizable media streaming experience. To further improve this experience, several third-party plugins and repositories can be installed, expanding the functionalities and resources available. I set up my own server and we started to configure it currently with 16 TB of storage, the idea is to expand the storage, infinity is the limit.
 
 **Plugin Repositories:**
 
@@ -52,7 +52,7 @@ Multiple Countries: The website https://bevy.com/ provides XMLTV files for vario
 
 **Introdução:**
 
-O Jellyfin oferece uma experiência de streaming de mídia completa e personalizável. Para aprimorar ainda mais essa experiência, diversos plugins e repositórios de terceiros podem ser instalados, expandindo as funcionalidades e recursos disponíveis.
+O Jellyfin oferece uma experiência de streaming de mídia completa e personalizável. Para aprimorar ainda mais essa experiência, diversos plugins e repositórios de terceiros podem ser instalados, expandindo as funcionalidades e recursos disponíveis. Eu monteu meu proprio servidor e começamos a configurar atualmente esta com 16 TB de armazenamento, a idéia é espandir o armazenamento o infinito é o limite.
 
 **Repositórios de Plugins:**
 
