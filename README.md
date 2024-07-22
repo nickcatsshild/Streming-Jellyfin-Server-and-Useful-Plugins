@@ -1,66 +1,51 @@
-# Jellyfin Plugins Uteis
- Coleção de informações sobre plugins uteis
+## Repositórios e Plugins Úteis para Jellyfin
 
-LISTA DE PLUG INS PARA JELLYFIN
+**Introdução:**
 
+O Jellyfin oferece uma experiência de streaming de mídia completa e personalizável. Para aprimorar ainda mais essa experiência, diversos plugins e repositórios de terceiros podem ser instalados, expandindo as funcionalidades e recursos disponíveis.
 
-Jellyfin.Xtream
-https://kevinjil.github.io/Jellyfin.Xtream/repository.json
+**Repositórios de Plugins:**
 
-Jellyfin
-https://repo.jellyfin.org/releases/plugin/manifest-stable.json
+* **Jellyfin:** O repositório oficial do Jellyfin oferece uma ampla seleção de plugins estáveis e testados. Acesse: [https://repo.jellyfin.org/releases/plugin/manifest-stable.json](https://repo.jellyfin.org/releases/plugin/manifest-stable.json)
+* **3rd-Party Plugin Repositories:** Uma lista abrangente de repositórios de plugins de terceiros pode ser encontrada em: [URL inválido removido]
+* **Repositórios Adicionais:**
+    * Jellyfin.Xtream: [https://kevinjil.github.io/Jellyfin.Xtream/repository.json](https://kevinjil.github.io/Jellyfin.Xtream/repository.json)
+    * Ani-Sync Repo: [https://raw.githubusercontent.com/vosmiic/jellyfin-ani-sync/master/manifest.json](https://raw.githubusercontent.com/vosmiic/jellyfin-ani-sync/master/manifest.json)
+    * danieladov's Repo: [https://raw.githubusercontent.com/danieladov/JellyfinPluginManifest/master/manifest.json](https://raw.githubusercontent.com/danieladov/JellyfinPluginManifest/master/manifest.json)
+    * dkanada's Repo: [https://raw.githubusercontent.com/dkanada/jellyfin-plugin-intros/master/manifest.json](https://raw.githubusercontent.com/dkanada/jellyfin-plugin-intros/master/manifest.json)
+    * k-matti's Repo: [https://raw.githubusercontent.com/k-matti/jellyfin-plugin-repository/master/manifest.json](https://raw.githubusercontent.com/k-matti/jellyfin-plugin-repository/master/manifest.json)
+    * LinFor's Repo: [https://raw.githubusercontent.com/LinFor/jellyfin-plugin-kinopoisk/master/dist/manifest.json](https://raw.githubusercontent.com/LinFor/jellyfin-plugin-kinopoisk/master/dist/manifest.json)
+    * LizardByte's Repo: [https://app.lizardbyte.dev/jellyfin-plugin-repo/manifest.json](https://app.lizardbyte.dev/jellyfin-plugin-repo/manifest.json)
+    * ShokoAnime's Repo: [https://raw.githubusercontent.com/ShokoAnime/Shokofin/master/manifest.json](https://raw.githubusercontent.com/ShokoAnime/Shokofin/master/manifest.json)
+    * DarkFighterLuke's Repo: [https://raw.githubusercontent.com/DarkFighterLuke/TubeArchivistMetadata/master/manifest.json](https://raw.githubusercontent.com/DarkFighterLuke/TubeArchivistMetadata/master/manifest.json)
+    * subbuzz: [https://raw.githubusercontent.com/josdion/subbuzz/master/repo/jellyfin_10.8.json](https://raw.githubusercontent.com/josdion/subbuzz/master/repo/jellyfin_10.8.json)
 
-3rd-Party Plugin Repositories
+**Plugins Úteis:**
 
-https://raw.githubusercontent.com/9p4/jellyfin-plugin-sso/manifest-release/manifest.json
+* **Jellyfin Skin Manager Plugin:** Permite gerenciar e instalar skins no Jellyfin, personalizando a interface do seu servidor.
+* **Jellyfin Theme Songs Plugin:** Adiciona músicas tema personalizáveis para diferentes seções do Jellyfin.
+* **Skin Manager 2.0:** Uma versão aprimorada do gerenciador de skins, com mais recursos e opções de personalização.
 
-Ani-Sync Repo
+**XML dos IPTVs:**
 
-https://raw.githubusercontent.com/vosmiic/jellyfin-ani-sync/master/manifest.json
+* **XML do Brasil:** [https://www.bevy.be/bevyfiles/brazil.xml](https://www.bevy.be/bevyfiles/brazil.xml)
 
-danieladov's Repo
-https://raw.githubusercontent.com/danieladov/JellyfinPluginManifest/master/manifest.json
+**Observações:**
 
-dkanada's Repo
-https://raw.githubusercontent.com/dkanada/jellyfin-plugin-intros/master/manifest.json
+* A instalação de plugins de terceiros pode ser feita através da interface web do Jellyfin ou por meio da linha de comando.
+* Certifique-se de pesquisar e escolher plugins confiáveis e compatíveis com a versão do Jellyfin que você está usando.
+* Leia a documentação oficial do Jellyfin e dos plugins para obter instruções detalhadas sobre instalação e configuração.
 
+**Lembre-se:**
 
-k-matti's Repo
-https://raw.githubusercontent.com/k-matti/jellyfin-plugin-repository/master/manifest.json
+Com a combinação de plugins úteis e repositórios confiáveis, você pode expandir as funcionalidades do Jellyfin e criar uma experiência de streaming de mídia personalizada e completa. Utilize os recursos mencionados acima para aprimorar seu servidor Jellyfin e aproveitar ao máximo o conteúdo de mídia que você possui.
 
-LinFor's Repo
-https://raw.githubusercontent.com/LinFor/jellyfin-plugin-kinopoisk/master/dist/manifest.json
+XML dos Canais de TV:
 
-LizardByte's Repo
-https://app.lizardbyte.dev/jellyfin-plugin-repo/manifest.json
+    XML do Brasil: https://www.bevy.be
 
-ShokoAnime's Repo
-https://raw.githubusercontent.com/ShokoAnime/Shokofin/master/manifest.json
+Observações:
 
-DarkFighterLuke's Repo
-https://raw.githubusercontent.com/DarkFighterLuke/TubeArchivistMetadata/master/manifest.json
-
-
-subbuzz
-https://raw.githubusercontent.com/josdion/subbuzz/master/repo/jellyfin_10.8.json
-
-
-Jellyfin Skin Manager Plugin - travandoo
-
-https://raw.githubusercontent.com/danieladov/JellyfinPluginManifest/master/manifest.json
-
-
-Jellyfin Theme Songs Plugin
-https://raw.githubusercontent.com/danieladov/JellyfinPluginManifest/master/manifest.json
-
-Skin Manager 2.0 - Jellyfin Plugin
-https://raw.githubusercontent.com/danieladov/JellyfinPluginManifest/master/manifest.json
-
-
-
-# XML DOS IPTVS
-
-https://www.bevy.be/bevyfiles/brazil.xml
-
-
-
+    A instalação de plugins de terceiros pode ser feita através da interface web do Jellyfin ou por meio da linha de comando.
+    Certifique-se de pesquisar e escolher plugins confiáveis e compatíveis com a versão do Jellyfin que você está usando.
+    Leia a documentação oficial
